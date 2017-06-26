@@ -30,14 +30,14 @@ public class StarterApplication extends Application {
 
     // Codigo de configuração do App
     Parse.initialize(new Parse.Configuration.Builder(getApplicationContext())
-            .applicationId("APPLICATION_ID_AQUI")
+            .applicationId("aW5zdHJhZ3JhbQ==")
             .clientKey(null)
-            .server("URL_SERVIDOR")
+            .server("http://instagram2606.herokuapp.com/parse/")
     .build()
     );
 
-    /*
-      // Teste de configuração do App
+
+  /*    // Teste de configuração do App
       ParseObject pontuacao = new ParseObject("Pontuacao");
       pontuacao.put("pontos", 100);
       pontuacao.saveInBackground(new SaveCallback() {
@@ -48,13 +48,13 @@ public class StarterApplication extends Application {
                   Log.i("TesteExecucao", "Falha ao salvar os dados!!!");
               }
           }
-      });
-    */
+      });*/
 
-      ParseUser.enableAutomaticUser();
+
+    //ParseUser.enableAutomaticUser();
     ParseACL defaultACL = new ParseACL();
     // Optionally enable public read access.
-    // defaultACL.setPublicReadAccess(true);
-    ParseACL.setDefaultACL(defaultACL, true);
+     defaultACL.setPublicReadAccess(true);
+    //ParseACL.setDefaultACL(defaultACL, true);
   }
 }
