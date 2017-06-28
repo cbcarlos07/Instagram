@@ -1,4 +1,4 @@
-#Wed Jun 28 08:03:06 BOT 2017
+#Wed Jun 28 14:44:10 BOT 2017
 base.0=C\:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=C\:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
