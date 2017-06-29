@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
     setContentView(R.layout.activity_main);
 
       /* Cadastro de Usuário */
-      /*ParseUser usuario = new ParseUser();
+      ParseUser usuario = new ParseUser();
       usuario.setUsername( "carlos" );
       usuario.setPassword("123456");
       usuario.setEmail( "carlos@gmail.com" );
@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
               }
 
           }
-      });*/
+      });
       //Deslogar
       //ParseUser.logOut();
 
@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
        /*
        Fazer login do uusario
         */
-       ParseUser.logInInBackground("carlos", "123456", new LogInCallback() {
+  /*     ParseUser.logInInBackground("carlos", "123456", new LogInCallback() {
          @Override
          public void done(ParseUser user, ParseException e) {
 
@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity {
              }
 
          }
-       });
+       });*/
 
 
  /*   ParseObject pontuacao = new ParseObject("Pontuacao");
