@@ -76,6 +76,10 @@
         "source": "C:\\Users\\carlos.bruno\\.android\\build-cache\\552009ca9edd6ffb760db85008ba9883818f1390\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
+        "merged": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\instagramlogo.png",
+        "source": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\src\\main\\res\\drawable\\instagramlogo.png"
+    },
+    {
         "merged": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "C:\\Users\\carlos.bruno\\.android\\build-cache\\552009ca9edd6ffb760db85008ba9883818f1390\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },

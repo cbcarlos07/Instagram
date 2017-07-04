@@ -40,6 +40,10 @@
         "source": "C:\\Users\\carlos.bruno\\.android\\build-cache\\552009ca9edd6ffb760db85008ba9883818f1390\\output\\res\\layout\\notification_media_action.xml"
     },
     {
+        "merged": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
         "merged": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
         "source": "C:\\Users\\carlos.bruno\\.android\\build-cache\\552009ca9edd6ffb760db85008ba9883818f1390\\output\\res\\layout\\notification_template_big_media_narrow.xml"
     },
@@ -66,6 +70,10 @@
     {
         "merged": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
         "source": "C:\\Users\\carlos.bruno\\.android\\build-cache\\552009ca9edd6ffb760db85008ba9883818f1390\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\lista_postagem.xml",
+        "source": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\src\\main\\res\\layout\\lista_postagem.xml"
     },
     {
         "merged": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
@@ -108,6 +116,10 @@
         "source": "C:\\Users\\carlos.bruno\\.android\\build-cache\\552009ca9edd6ffb760db85008ba9883818f1390\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
+        "merged": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\tab_view.xml",
+        "source": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\src\\main\\res\\layout\\tab_view.xml"
+    },
+    {
         "merged": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
         "source": "C:\\Users\\carlos.bruno\\.android\\build-cache\\552009ca9edd6ffb760db85008ba9883818f1390\\output\\res\\layout\\notification_template_big_media.xml"
     },
@@ -124,8 +136,16 @@
         "source": "C:\\Users\\carlos.bruno\\.android\\build-cache\\552009ca9edd6ffb760db85008ba9883818f1390\\output\\res\\layout\\notification_template_media.xml"
     },
     {
+        "merged": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_usuarios.xml",
+        "source": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\src\\main\\res\\layout\\fragment_usuarios.xml"
+    },
+    {
         "merged": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cadastro.xml",
         "source": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\src\\main\\res\\layout\\activity_cadastro.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
         "merged": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",

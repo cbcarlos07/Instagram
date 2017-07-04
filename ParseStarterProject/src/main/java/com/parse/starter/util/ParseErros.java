@@ -12,6 +12,7 @@ public class ParseErros {
 
     public ParseErros() {
         this.erros = new HashMap<>();
+        this.erros.put(101, "Login ou senha estão incorretos");
         this.erros.put(201, "A senha não foi preenchida.");
         this.erros.put(202, "Usuário já existe, escolha um outro nome de usuário.");
     }

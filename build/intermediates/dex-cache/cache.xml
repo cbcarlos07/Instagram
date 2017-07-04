@@ -3,21 +3,39 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\carlos.bruno\.android\build-cache\3283cfe3932a806ca86f98824d0ac4c4c4103ba5\output\jars\classes.jar"
+        jar="C:\Users\carlos.bruno\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\Users\carlos.bruno\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\classes_5143ee59995e7cc361a29053fe3090667ffd3d9b.jar" />
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\carlos.bruno\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\picasso-2.5.2_1466cb802190231dbae128e9bf26eef14195f7ae.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\carlos.bruno\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jar="C:\Users\carlos.bruno\.android\build-cache\07f04886d7acfaef2515c2e499ef733594942dc5\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="C:\Users\carlos.bruno\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_0ccf4f6b4b5032f08c486586ca11ca1795379000.jar" />
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\carlos.bruno\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\classes_68c1f1dfae516d7ff3ca9b9b0a7b6536ce3ba010.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.bruno\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\carlos.bruno\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_a6f81741d8e1348e5eda5f109cd62bf864e83d91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.bruno\.android\build-cache\07f04886d7acfaef2515c2e499ef733594942dc5\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\carlos.bruno\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_f70e07904c4b146d68717f0d06cfd33f6e0b9840.jar" />
     </item>
 
 </items>

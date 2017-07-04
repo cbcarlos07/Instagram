@@ -7,6 +7,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.parse.ParseException;
@@ -21,6 +22,7 @@ public class CadastroActivity extends AppCompatActivity {
     private EditText textoEmail;
     private EditText textoSenha;
     private Button   botaoCadastrar;
+    private TextView facaLogin;
 
 
     @Override
@@ -32,7 +34,13 @@ public class CadastroActivity extends AppCompatActivity {
         textoEmail   = (EditText) findViewById( R.id.text_email );
         textoSenha   = (EditText) findViewById( R.id.text_senha );
         botaoCadastrar = (Button) findViewById( R.id.button_cadastrar );
-
+        facaLogin = (TextView) findViewById( R.id.text_faca_login );
+        facaLogin.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                abrirLoginUsuario();
+            }
+        });
         botaoCadastrar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -59,6 +67,7 @@ public class CadastroActivity extends AppCompatActivity {
 
                 if( e == null ) { // sucesso ao salvar
                     Toast.makeText(CadastroActivity.this, "Cadastro feito com sucesso!", Toast.LENGTH_SHORT).show();
+                    abrirLoginUsuario( );
                 }else{//erro ao salvar
                     ParseErros parseErros = new ParseErros();
                     String erro = parseErros.getErro( e.getCode() );
@@ -69,7 +78,7 @@ public class CadastroActivity extends AppCompatActivity {
 
     }
 
-    public void abrirLoginUsuario(View view){
+    public void abrirLoginUsuario(){
         Intent intent = new Intent( CadastroActivity.this, LoginActivity.class );
         startActivity( intent );
         finish();
