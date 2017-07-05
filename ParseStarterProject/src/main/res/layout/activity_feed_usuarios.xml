@@ -7,7 +7,7 @@
     tools:context="com.parse.starter.activity.FeedUsuariosActivity">
 
     <include layout="@layout/toolbar"
-        android:id="@+id/toolbar-feed_usuario"/>
+        android:id="@+id/toolbar_feed_usuario"/>
 
     <include layout="@layout/content_feed_usuarios" />
 

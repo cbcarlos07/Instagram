@@ -48,6 +48,10 @@
         "source": "C:\\Users\\carlos.bruno\\.android\\build-cache\\c2200e15b26f5e3c16c5db78599e60f214a51070\\output\\res\\drawable-xxxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
+        "merged": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_left.png",
+        "source": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_left.png"
+    },
+    {
         "merged": "C:\\Users\\carlos.bruno\\AndroidStudioProjects\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "C:\\Users\\carlos.bruno\\.android\\build-cache\\c2200e15b26f5e3c16c5db78599e60f214a51070\\output\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },

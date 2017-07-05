@@ -38,7 +38,7 @@ MERGED from [com.android.support:support-v4:23.0.0] C:\Users\carlos.bruno\.andro
 	android:allowBackup
 		ADDED from C:\Users\carlos.bruno\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:18:9-35
 	android:icon
-		ADDED from C:\Users\carlos.bruno\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:20:9-43
+		ADDED from C:\Users\carlos.bruno\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:20:9-44
 	android:largeHeap
 		ADDED from C:\Users\carlos.bruno\AndroidStudioProjects\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:22:9-33
 	android:theme

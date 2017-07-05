@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="C:\Users\carlos.bruno\.android\build-cache\c2200e15b26f5e3c16c5db78599e60f214a51070\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\carlos.bruno\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\classes_52edef5c4f83b53a6aad00c2df6f44f50a8cb4c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\carlos.bruno\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
         jumboMode="false"
         optimize="true"
@@ -36,6 +45,15 @@
         revision="25.0.0"
         sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
         <dex dex="C:\Users\carlos.bruno\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_f70e07904c4b146d68717f0d06cfd33f6e0b9840.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlos.bruno\.android\build-cache\9d9331680b8aeb2995acc6cb1b7514c85bc785d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\carlos.bruno\AndroidStudioProjects\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\classes_600ce67f5f63be6b2aba1f27a9af738b8ac441e0.jar" />
     </item>
 
 </items>
