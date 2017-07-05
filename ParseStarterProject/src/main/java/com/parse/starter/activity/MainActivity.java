@@ -37,6 +37,7 @@ import com.parse.SaveCallback;
 import com.parse.SignUpCallback;
 import com.parse.starter.R;
 import com.parse.starter.adapter.TabsAdapter;
+import com.parse.starter.fragments.HomeFragment;
 import com.parse.starter.util.SlidingTabLayout;
 
 import java.io.ByteArrayInputStream;
@@ -300,14 +301,19 @@ public class MainActivity extends AppCompatActivity {
                         if( e == null ){
 
                             Toast.makeText( getApplicationContext(), "Sua imagem foi postada!", Toast.LENGTH_SHORT ).show();
-                            Log.i("Foto","Sua imagem foi postada!");
-
+                           // Log.i("Foto","Sua imagem foi postada!");
+                            //Atualizar a listagem de Itens do Fragmento HomeFragment
+                            TabsAdapter adapterNovo = ( TabsAdapter ) viewPager.getAdapter();
+                            HomeFragment homeFragmentNovo = (HomeFragment) adapterNovo.getFragment( 0 );
+                            homeFragmentNovo.atualizaPostagens();
 
                         }else{
 
                             Toast.makeText( getApplicationContext(), "Erro ao postar sua imagem - Tente novamente",
                                             Toast.LENGTH_SHORT  ).show();
-                            Log.i("Foto","Erro ao postar sua imagem - Tente novamente");
+                           // Log.i("Foto","Erro ao postar sua imagem - Tente novamente");
+
+
                         }
 
                     }
